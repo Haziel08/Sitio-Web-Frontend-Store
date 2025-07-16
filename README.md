@@ -29,34 +29,37 @@ Proyecto web de una tienda ficticia de camisetas para desarrolladores, creada co
 ---
 
 ## 📁 Estructura del proyecto
-📦 raiz/
-┣ 📂 css/
-┃ ┣ 📄 normalize.css
-┃ ┗ 📄 style.css
-┣ 📂 img/
-┃ ┣ 📄 1.jpg
-┃ ┣ 📄 2.jpg
-┃ ┣ 📄 3.jpg
-┃ ┣ 📄 4.jpg
-┃ ┣ 📄 5.jpg
-┃ ┣ 📄 6.jpg
-┃ ┣ 📄 7.jpg
-┃ ┣ 📄 8.jpg
-┃ ┣ 📄 9.jpg
-┃ ┣ 📄 10.jpg
-┃ ┣ 📄 11.jpg
-┃ ┣ 📄 12.jpg
-┃ ┣ 📄 13.jpg
-┃ ┣ 📄 14.jpg
-┃ ┣ 📄 icono_1.png
-┃ ┣ 📄 icono_2.png
-┃ ┣ 📄 icono_3.png
-┃ ┣ 📄 icono_4.png
-┃ ┣ 📄 logo.png
-┃ ┗ 📄 nosotros.jpg
-┣ 📄 index.html
-┣ 📄 producto.html
-┣ 📄 nosotros.html
-┗ 📄 README.md
+
+📦 raiz/  
+ ┣ 📂 css/  
+ ┃ ┣ 📄 normalize.css  
+ ┃ ┗ 📄 style.css  
+ ┣ 📂 img/  
+ ┃ ┣ 📄 1.jpg  
+ ┃ ┣ 📄 2.jpg  
+ ┃ ┣ 📄 3.jpg  
+ ┃ ┣ 📄 4.jpg  
+ ┃ ┣ 📄 5.jpg  
+ ┃ ┣ 📄 6.jpg  
+ ┃ ┣ 📄 7.jpg  
+ ┃ ┣ 📄 8.jpg  
+ ┃ ┣ 📄 9.jpg  
+ ┃ ┣ 📄 10.jpg  
+ ┃ ┣ 📄 11.jpg  
+ ┃ ┣ 📄 12.jpg  
+ ┃ ┣ 📄 13.jpg  
+ ┃ ┣ 📄 14.jpg  
+ ┃ ┣ 📄 icono_1.png  
+ ┃ ┣ 📄 icono_2.png  
+ ┃ ┣ 📄 icono_3.png  
+ ┃ ┣ 📄 icono_4.png  
+ ┃ ┣ 📄 logo.png  
+ ┃ ┗ 📄 nosotros.jpg  
+ ┣ 📄 index.html  
+ ┣ 📄 producto.html  
+ ┣ 📄 nosotros.html  
+ ┗ 📄 README.md  
+
+---
 
 
